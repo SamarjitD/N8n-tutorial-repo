@@ -6,9 +6,9 @@
     "node": "20.x"
   },
   "scripts": {
-    "n8n start": "n8n start"
+    "start": "n8n start"
   },
-  "n8n dependency": {
+  "dependencies": {
     "n8n": "latest"
   }
 }
