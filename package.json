@@ -8,7 +8,7 @@
   "scripts": {
     "start": "n8n"
   },
-  "dependencies": {
+  "Add n8n dependency": {
     "n8n": "latest"
   }
 }
